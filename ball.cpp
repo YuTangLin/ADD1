@@ -6,6 +6,7 @@ using namespace std;
 Ball::Ball() {
     _radius = 0.0;
     _name = "normal ball";
+    _color = "red";
 }
 
 string Ball::Name() {

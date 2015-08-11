@@ -10,4 +10,5 @@ public:
 protected:
     double _radius;
     string _name;
+    string _color;
 };
