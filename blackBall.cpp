@@ -4,6 +4,7 @@
 BlackBall::BlackBall() {
     _radius = 0.0;
     _name = "black ball";
+    _color = "black";
 }
 
 void BlackBall::setName(string new_name) {
